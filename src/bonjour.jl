@@ -1,3 +1,3 @@
 function bonjour()
-    println("Bonjour !")
+    println("Bonjour et coucou !")
 end
